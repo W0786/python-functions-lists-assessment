@@ -125,7 +125,7 @@ On some systems you may need to use `python3` instead of `python`.
 **Input**
 
 ```text
-Enter student name: sara khan
+Enter student name: waqar farid
 Enter roll number: 1024
 Enter marks for English (0-100): 95
 Enter marks for Urdu (0-100): 88
@@ -140,7 +140,7 @@ Enter marks for Computer (0-100): 90
 ========================================
           STUDENT RESULT CARD           
 ========================================
-Name        : Sara Khan
+Name        : Waqar Farid
 Roll Number : 1024
 ----------------------------------------
 Subject                  Marks
