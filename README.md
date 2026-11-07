@@ -238,4 +238,4 @@ Both programs were tested with the following cases:
 
 ## Author
 
-Your Name
+Waqar Farid
